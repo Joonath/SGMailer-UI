@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Joo Nath/Documents/Java API/java-http-client-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joo Nath/Documents/Java API/sendgrid-java-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joo Nath/Documents/Java API/commons-codec-1.11/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joo Nath/Documents/Java API/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joo Nath/Documents/Java API/ckeditor-java-core-3.5.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
